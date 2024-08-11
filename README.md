@@ -1,9 +1,8 @@
 # Word-Count-checker
 ✨ Simple Word Count Checker ✨
-This is a straightforward Word Count Checker built using HTML, CSS, and JavaScript. 📝
+This is a straightforward Word Count Checker built using HTML, CSS, and JavaScript. 
 
-Features:
-
+📝Features:
 🖋️ Counts the total number of words in the input text.
 📜 Displays the total number of characters (including spaces).
 ⚡ Provides real-time updates as you type.
